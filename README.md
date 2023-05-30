@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Martinez</h1>
 <h3 align="center">Fullstack Developer</h3>
-// TODO - Add Hero Banner
+
 
 <p align="center">
     <a href="https://youtube.com/@AdrianMartinez-pi9gt" target="blank" style="margin: 0 20px;">
