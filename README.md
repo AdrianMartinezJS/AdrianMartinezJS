@@ -13,10 +13,11 @@
 
 
 <h3 align="center">About me </h3>
-I'm a **Fullstack developer** and **Freelancer**, focused on creating customized websites and applications according to the user's needs. <br>
-I’m currently working on **a company** and learning **ASP.NET**. <br>
-All of my projects are available at [https://webseite.vercel.app/](https://webseite.vercel.app/)
-
+<p align="center">
+    I'm a **Fullstack developer** and **Freelancer**, focused on creating customized websites and applications according to the user's needs. <br>
+    I’m currently working on **a company** and learning **ASP.NET**. <br>
+    All of my projects are available at [https://webseite.vercel.app/](https://webseite.vercel.app/)
+</p>
 
 
 <h3 align="center">Languages and Tools </h3>
